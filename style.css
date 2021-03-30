@@ -68,7 +68,7 @@ body{
 .edu tbody tr{
     border-bottom: 1px solid #94EBCD;
 }
-.edu tr:hover{
+.edu tbody tr:hover{
     background-color:#94ebcd41 ;
 
 }
