@@ -1,0 +1,228 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(0, 81, 255);
+    font-weight: bold;
+}
+.achievement{
+    height: 270px;
+}
+
+body{
+    margin: 0;
+    background-color: #6DDCCF;
+}
+.container{
+    
+    max-width: max-content;
+    max-height: max-content;
+    border-radius: 10px;
+    
+    padding: 30px 10px 10px 20px;
+    margin-left: 400px;
+}
+.dp{
+    margin-left: 35%;
+    margin-right: 0;
+    float: left;
+}
+.eca{
+    position: relative;
+    top: 100px;
+}
+.ecal{
+    position: absolute;
+}
+
+.ecaimg{
+    
+    margin-left: 5px;
+    height: 200px;
+    float: left;
+    position: relative;
+    right: 190px;
+    bottom: 40px;
+}
+.educareer{
+    min-width: 1000px;
+    padding-bottom: 19px;
+}
+.edu{
+    font-size: 17px;
+    margin-left: 400px;
+    min-width: 700px;
+    border-collapse: collapse;
+    text-align: left;
+    
+}
+.eduimg{
+    position: relative;
+    left: 40px;
+    bottom: 20px;
+    height: 200px;
+    float: left;
+    
+}
+.edu thead tr{
+    background-color: #94EBCD;
+    font-weight: bold;
+}
+.edu td, .edu th{
+    padding: 10px;
+}
+.edu tbody tr{
+    border-bottom: 1px solid #94EBCD;
+}
+.edu tbody tr:hover{
+    background-color:#94ebcd41 ;
+
+}
+footer{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.himg{
+    position: relative;
+    left: 40px;
+    bottom: 22px;
+    float: left;
+    height: 170px;
+
+}
+.hobby{
+    height: 220px;
+}
+.intro{
+    margin-bottom: 0;
+    padding-top: 60px;
+    font-family: 'Courgette', cursive;
+}
+.intro2{
+    margin-top: 5px;
+    font-family: 'Courgette', cursive;
+}
+.lang{
+    min-height: 200px;
+    min-width: 1140px ;
+    padding-top: 10px;
+    background-color: #94EBCD;
+    padding-bottom: 19px;
+}
+.langimg{
+    height: 170px;
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+    float: left;
+}
+li{
+    font-size: 17px;
+    padding: 5px;
+    min-width: 300px ;
+}
+li:hover{
+    font-weight: bolder;
+}
+
+#message{
+    height: 60px;
+    width: 300px;
+}
+.msg{
+    min-width: 1140px;
+    background-color: #94EBCD;
+    height: max-content;
+    padding-bottom: 20px;
+}
+.msgimg{
+    height: 170px;
+    float: left;
+    position: relative;
+    left: 40px;
+    top: 70px;
+}
+#name{
+    height: 20px;
+    width: 300px;
+}
+
+.nav{
+    min-width: 1140px ;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 5px 0;
+    background-color: #94EBCD;
+    clear: both;
+}
+.navtable {
+    min-width: 100%;
+    border-right: 2px solid #6DDCCF;
+}
+.navtable td{
+    width: 14.28%;
+    text-align: center;
+    border-left: 2px solid #6DDCCF;
+}
+.skill{
+    min-height: 250px;
+    min-width: 1140px ;
+    padding-top: 10px;
+    background-color: #94EBCD;
+    padding-bottom: 19px;
+}
+.skillimg{
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+    margin-right: 10px;
+    width: 200px;
+    float: left;
+}
+
+.skilltable{
+    font-size: 17px;
+    margin-left: 400px;
+    min-width: 600px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.skilltable td{
+    padding: 10px;
+}
+.sname{
+    font-size: 18px;
+}
+.social{
+    margin-right: 2px;
+    height: 16px;
+    width: 16px;
+}
+
+.socialhandles{
+
+    font-family: 'Montserrat', sans-serif;
+}
+.socialtable td{
+    padding: 0px 10px 0px 10px;
+}
+.socialtable{
+    padding: 5px 0px;
+}
+#submit{
+    border-radius: 10px;
+    background-color: #6DDCCF;
+}
+
+
+.td1 , .td2{
+    border-right: 2px solid #94EBCD;
+}
+
+
+td{
+    min-width: max-content;
+}
