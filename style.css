@@ -1,0 +1,439 @@
+body{
+    text-align: center;
+}
+table{
+    align-self: center;
+}
+.eduimg, .skillimg , .ecaimg, .langimg, .himg, .msgimg{
+    width: 50%;
+}
+.top{
+    max-width: 100%;
+    height: 250px;
+}
+.dp{
+    margin-left: 20%;
+    float: left;
+    height: 100%;
+    
+}
+
+/* temporary */
+/* temporary */
+/* temporary */
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(0, 81, 255);
+    font-weight: bold;
+}
+.achievement{
+    height: max-content;
+}
+
+body{
+    margin: 0;
+    background-color: #6DDCCF;
+}
+.msgcontainer{
+    
+    width: 90%;
+    margin-left: 2.5%;
+    max-height: max-content;
+    border-radius: 10px;
+    padding: 0px 0px 10px 20px;
+    
+}
+
+
+.educareer{
+    min-width: 100%;
+    
+}
+.edu{
+    font-size: 17px;
+    margin-left: 2.5%;
+    width: 95%;
+    border-collapse: collapse;
+    text-align: left;
+    
+}
+
+.edu thead tr{
+    background-color: #94EBCD;
+    font-weight: bold;
+}
+.edu td, .edu th{
+    padding: 10px;
+}
+.edu tbody tr{
+    border-bottom: 1px solid #94EBCD;
+}
+.edu tbody tr:hover{
+    background-color:#94ebcd41 ;
+    
+
+}
+footer{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hobby{
+    height: max-content;
+}
+.intro{
+    margin-bottom: 0;
+    padding-top: 60px;
+    font-family: 'Courgette', cursive;
+    text-align: left;
+}
+.intro2{
+    margin-top: 5px;
+    font-family: 'Courgette', cursive;
+    text-align: left;
+}
+.lang{
+    min-height: 200px;
+    min-width: 100% ;
+    padding-top: 10px;
+    background-color: #94EBCD;
+    padding-bottom: 19px;
+}
+
+li{
+    
+    
+    font-size: 17px;
+    padding: 5px;
+    min-width: 40% ;
+}
+li:hover{
+    font-weight: bolder;
+}
+.list{
+    width: 70%;
+    margin-left: 30%;
+    text-align: left;
+}
+#message{
+    height: 60px;
+    width: 300px;
+}
+.msg{
+    min-width: 100%;
+    background-color: #94EBCD;
+    height: max-content;
+    padding-bottom: 20px;
+}
+
+#name{
+    height: 20px;
+    width: 300px;
+}
+
+.navdiv{
+    width: 100%;
+}
+.skill{
+    min-height: 250px;
+    min-width: 100% ;
+    padding-top: 10px;
+    background-color: #94EBCD;
+    padding-bottom: 19px;
+}
+
+
+.skilltable{
+    font-size: 17px;
+    margin-left: 5%;
+    width: 90%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.skilltable td{
+    padding: 10px;
+    width: 60%;
+}
+
+.sname{
+    font-size: 18px;
+}
+.social{
+    margin: 0 10px ;
+    height: 30px;
+    width: 30px;
+}
+.social:hover{
+    transform: scale(1.2);
+    transition: 0.2s;
+}
+.socialhandles{
+
+    font-family: 'Montserrat', sans-serif;
+}
+.socialtable td{
+    text-align: center;
+    width: 30%;
+    padding: 0px 10px 0px 10px;
+    font-size: 1%;
+}
+.socialtable{
+    width: 100%;
+    padding: 5px 0px;
+}
+#submit{
+    border-radius: 10px;
+    background-color: #6DDCCF;
+}
+
+
+.td1 , .td2{
+    border-right: 2px solid #94EBCD;
+}
+
+
+td{
+    min-width: max-content;
+}
+
+/* temporary */
+/* temporary */
+/* temporary */
+
+
+@media only screen and (min-width: 768px){
+    
+    a{
+        color: black;
+        text-decoration: none;
+    }
+    a:hover{
+        color: rgb(0, 81, 255);
+        font-weight: bold;
+    }
+    .achievement{
+        height: 270px;
+    }
+    
+    body{
+        text-align: left;
+        margin: 0;
+        background-color: #6DDCCF;
+    }
+    .msgcontainer{
+        
+        max-width: max-content;
+        max-height: max-content;
+        border-radius: 10px;
+        padding: 0px 0px 10px 20px;
+        margin-left: 400px;
+    }
+    .dp{
+        height:250px;
+        width: 147.44px;
+        margin-left: 35%;
+        margin-right: 0;
+        float: left;
+    }
+    .eca{
+        position: relative;
+        top: 100px;
+    }
+    .ecal{
+        position: absolute;
+    }
+    
+    .ecaimg{
+        
+        margin-left: 5px;
+        height: 200px;
+        width: 195.54px;
+        float: left;
+        position: relative;
+        right: 190px;
+        bottom: 40px;
+    }
+    .educareer{
+        min-width: 1000px;
+        padding-bottom: 19px;
+    }
+    .edu{
+        font-size: 17px;
+        margin-left: 400px;
+        width: 700px;
+        border-collapse: collapse;
+        text-align: left;
+        
+    }
+    .eduimg{
+        position: relative;
+        left: 40px;
+        bottom: 20px;
+        height: 200px;
+        width: 220px;
+        float: left;
+        
+    }
+    .edu thead tr{
+        background-color: #94EBCD;
+        font-weight: bold;
+    }
+    .edu td, .edu th{
+        padding: 10px;
+    }
+    .edu tbody tr{
+        border-bottom: 1px solid #94EBCD;
+    }
+    .edu tbody tr:hover{
+        background-color:#94ebcd41 ;
+        
+    
+    }
+    footer{
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .himg{
+        position: relative;
+        left: 40px;
+        bottom: 22px;
+        float: left;
+        height: 170px;
+        width: 163.6px;
+    
+    }
+    .hobby{
+        height: 220px;
+    }
+    .hline{
+        position: relative;
+        right: 190px;
+    }
+    .intro{
+        margin-bottom: 0;
+        padding-top: 60px;
+        font-family: 'Courgette', cursive;
+    }
+    .intro2{
+        margin-top: 5px;
+        font-family: 'Courgette', cursive;
+    }
+    .lang{
+        min-height: 220px;
+        min-width: 1140px ;
+        padding-top: 10px;
+        background-color: #94EBCD;
+        padding-bottom: 19px;
+    }
+    .langimg{
+        height: 170px;
+        width: 226.66px;
+        position: relative;
+        bottom: 25px;
+        left: 20px;
+        float: left;
+    }
+    li{
+        font-size: 17px;
+        padding: 5px;
+        min-width: 300px ;
+    }
+    li:hover{
+        font-weight: bolder;
+    }
+    .list{
+        position: absolute;
+        left: 100px;
+        width: fit-content;
+    }
+    #message{
+        height: 60px;
+        width: 300px;
+    }
+    .msg{
+        min-width: 1140px;
+        background-color: #94EBCD;
+        height: max-content;
+        padding-bottom: 20px;
+    }
+    .msgimg{
+        height: 170px;
+        width: 182.34px;
+        float: left;
+        position: relative;
+        left: 40px;
+        top: 70px;
+    }
+    .p-0{ 
+        padding: 0 !important;
+        
+    }
+
+    #name{
+        height: 20px;
+        width: 300px;
+    }
+    
+    
+    .skill{
+        min-height: 250px;
+        min-width: 1140px ;
+        padding-top: 10px;
+        background-color: #94EBCD;
+        padding-bottom: 19px;
+    }
+    .skillimg{
+        position: relative;
+        bottom: 30px;
+        left: 40px;
+        margin-right: 10px;
+        width: 200px;
+        float: left;
+    }
+    
+    .skilltable{
+        font-size: 17px;
+        margin-left: 400px;
+        width: 600px;
+        border-collapse: collapse;
+        text-align: left;
+    }
+    
+    .skilltable td{
+        padding: 10px;
+    }
+    .sname{
+        font-size: 18px;
+    }
+    
+    
+    .socialhandles{
+    
+        font-family: 'Montserrat', sans-serif;
+    }
+    .socialtable td{
+        padding:  10px 0px ;
+    }
+    
+    #submit{
+        border-radius: 10px;
+        background-color: #6DDCCF;
+    }
+    
+    
+    .td1 , .td2{
+        border-right: 2px solid #94EBCD;
+    }
+    
+    
+    td{
+        min-width: max-content;
+    }
+    
+    
+    
+    
+}
