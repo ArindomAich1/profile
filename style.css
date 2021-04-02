@@ -223,15 +223,7 @@ td{
         margin: 0;
         
     }
-    .msgcontainer{
-        
-        width: 90%;
-        margin-left: 2.5%;
-        max-height: max-content;
-        border-radius: 10px;
-        padding: 0px 0px 10px 20px;
-        margin-left: 200px;
-    }
+    
     .dp{
         height:250px;
         width: 147.44px;
@@ -360,9 +352,18 @@ td{
         height: max-content;
         padding-bottom: 20px;
     }
+    .msgcontainer{
+        
+        width: 70%;
+        margin-left: 2.5%;
+        max-height: max-content;
+        border-radius: 10px;
+        padding: 0px 0px 10px 20px;
+        margin-left: 240px;
+    }
     .msgimg{
-        height: 170px;
-        width: 182.34px;
+        
+        width: 200px;
         float: left;
         position: relative;
         left: 40px;
